@@ -1,1 +1,5 @@
 画江湖
+		mWaterfallViewList = new ArrayList<WaterfallListView>();
+		mExperienceAdapters = new ArrayList<ExperienceAdapter>();
+		删除两行。。。
+		估计超过
